@@ -8,6 +8,7 @@
 #   "tenacity",
 #   "tabulate",
 #   "requests",
+#   "ipykernel",
 # ]
 # ///
 
