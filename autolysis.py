@@ -7,6 +7,7 @@
 #   "seaborn",
 #   "tenacity",
 #   "tabulate",
+#   "requests",
 # ]
 # ///
 
